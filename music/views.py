@@ -17,3 +17,6 @@ def index(request):
 def detail(request, album_id):
     album = get_object_or_404(Album, Album.objects.get(pk=album_id))
     return render(request, 'music/detail.html', {'album': album})
+
+
+def favorite(request):
