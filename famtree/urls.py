@@ -20,4 +20,5 @@ from django.contrib import admin
 urlpatterns = [
     url('admin/', admin.site.urls),
     url('music/', include('music.urls')),
+    url(r'^api-auth/', include('rest_framework.urls')),
 ]

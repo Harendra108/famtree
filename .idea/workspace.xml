@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f0c6d9f0-1fd2-4973-a5e4-c3078fd59288" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/music/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/famtree/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/famtree/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/famtree/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/famtree/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/music/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +28,7 @@
   <component name="ProjectId" id="1U4WaZtBQQmPlFr8hVqEzqw5WSC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
