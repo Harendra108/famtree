@@ -20,3 +20,5 @@ def detail(request, album_id):
 
 
 def favorite(request):
+    favorites = get_object_or_404(Album, Album.objects.get(isFavorite=True))
+    return render(request, 'music/favorite.html', {'favorites':favorites})
